@@ -1,7 +1,5 @@
 package animals;
 
-import javax.sound.midi.Soundbank;
-
 public class Veterinarian {
 
     public void treatAnimal(Animal animal) {
