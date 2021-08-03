@@ -10,4 +10,5 @@ public interface Engine {
         System.out.println("Двигатель отключен");
     }
 
+
 }

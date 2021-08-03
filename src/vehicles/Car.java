@@ -18,4 +18,5 @@ public interface Car {
         System.out.println("Поворот налево");
     }
 
+
 }
